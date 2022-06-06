@@ -3,16 +3,25 @@
     gap: 50px;
     padding: 80px 150px 100px 150px;
     justify-content: space-around;
+    font-family: 'Raleway', serif;
     background-color: #F3F3F3;
 }
 
 ul {
     list-style: none;
+    padding-top: 20px;
+    gap: 20px;
 }
 
 .laa__follow-us ul {
     display: flex;
     justify-content: space-around;
-    gap: 10px;
+    padding-top: 10px;
+    gap: 20px;
     flex-direction: row;
+}
+
+.copyright {
+    display: block;
+    float: left;
 }

@@ -41,6 +41,12 @@ const Footer = () => {
           <li><a href="https://twitter.com" target="blank" title="Twitter"><img src={twitter} alt="logo" /></a></li>
         </ul>
       </div>
+
+      <div className="copyright">
+        <span>Copyright 2022 </span>
+      </div>
+      
+          
       
     </div>
   )
