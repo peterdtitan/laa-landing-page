@@ -1,0 +1,69 @@
+.laa__contribute-container {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to bottom, #7C7C7C 0%, #7C7C7C 50%, #ffffff 50%, #ffffff 100%);
+    font-family: 'Raleway', serif;
+    color: white;
+}
+
+#contribute-text {
+    padding-top: 24px;
+    padding-left: 80px;
+    font-weight:400;
+}
+
+.laa__contribute {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    padding-top: 20px;
+    margin: 20px 80px 80px 80px;
+    gap: 20px;
+    background-image: url('../../assets/contribute.png');
+    filter: grayscale(100%);
+    background-repeat: no-repeat;
+    background-size: 1280px 539px;
+    padding-bottom: 250px;
+}
+
+
+.headline {
+    align-self: flex-start;
+    font-size: 48px;
+    font-weight: 900;
+    width: 448px;
+}
+
+.description {
+    width: 375px;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.signup-btn {
+    align-self: flex-start;
+    border: none;
+    border-radius: 12px;
+    color: #1B4F98;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 150%;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.laa__track {
+    padding-left: 40px;
+    padding-top: 20px;
+    margin: 20px 80px 80px 90px;
+    gap: 20px;
+    background-image: url('../../assets/mapbg.png');
+    background-repeat: no-repeat;
+    background-size: 1280px 764px;
+    padding-bottom: 800px;
+}
+
+.laa__logos {
+    align-self: center;
+    justify-self: flex-start;
+}

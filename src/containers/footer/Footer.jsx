@@ -12,7 +12,7 @@ const Footer = () => {
   return (
     <div className="laa__footer">
       <div className="logo">
-        <img src={logo} alt="logo" />
+        <a href="#"><img src={logo} alt="logo" /></a>
       </div>
 
       <div className="laa__company">
