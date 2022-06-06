@@ -1,0 +1,20 @@
+.laa__navbar {
+    display: flex;
+    justify-content: space-between;
+    border-top: 4px solid #1B4F98;
+    border-bottom: 1px solid #7c7c7c79;;
+    padding: 1.5rem 3rem;
+}
+
+.laa__navbar-logo {
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+.laa__profile {
+    align-self: center;
+    justify-self: flex-end;
+    padding: 10px;
+    border: 0.5px solid #1B4F98;
+    border-radius: 20px;
+}
