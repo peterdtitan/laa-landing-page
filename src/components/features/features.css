@@ -1,7 +1,7 @@
 .laa__contribute-container {
     display: flex;
     flex-direction: column;
-    background: linear-gradient(to bottom, #7C7C7C 0%, #7C7C7C 50%, #ffffff 50%, #ffffff 100%);
+    background: linear-gradient(to bottom, #7C7C7C 0%, #7C7C7C 60%, #ffffff 60%, #ffffff 100%);
     font-family: 'Raleway', serif;
     color: white;
 }
